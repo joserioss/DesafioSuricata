@@ -1,0 +1,14 @@
+.color-encabezado{
+    background-color: #e83e8c;
+    color: #fff;
+}
+
+footer{
+    text-align: center;
+    color: #fff;
+}
+
+section{
+    margin-left: 100px;
+    margin-right: 100px;
+}
